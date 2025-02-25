@@ -1,0 +1,14 @@
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.exe
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.deps.json
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.runtimeconfig.json
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.dll
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.pdb
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.AssemblyInfoInputs.cache
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.AssemblyInfo.cs
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.csproj.CoreCompileInputs.cache
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.dll
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\refint\AnnotationProject.dll
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.pdb
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.genruntimeconfig.cache
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\ref\AnnotationProject.dll
